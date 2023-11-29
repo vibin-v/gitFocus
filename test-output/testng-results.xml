@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-11-29T00:07:08 IST" name="Default suite" finished-at="2023-11-29T00:07:17 IST" duration-ms="8226">
+  <suite started-at="2023-11-29T15:39:41 IST" name="Default suite" finished-at="2023-11-29T15:39:50 IST" duration-ms="8973">
     <groups>
     </groups>
-    <test started-at="2023-11-29T00:07:08 IST" name="Default test" finished-at="2023-11-29T00:07:17 IST" duration-ms="8226">
-      <class name="com.gitfocus.factory.BaseClass">
-        <test-method signature="browserSetup()[pri:0, instance:com.gitfocus.factory.BaseClass@4d5650ae]" started-at="2023-11-29T00:07:08 IST" name="browserSetup" finished-at="2023-11-29T00:07:17 IST" duration-ms="8186" status="PASS">
+    <test started-at="2023-11-29T15:39:41 IST" name="Default test" finished-at="2023-11-29T15:39:50 IST" duration-ms="8973">
+      <class name="com.gitfocus.helpers.HandlingMultipleTab">
+        <test-method signature="helper_windowHandling()[pri:0, instance:com.gitfocus.helpers.HandlingMultipleTab@3012646b]" started-at="2023-11-29T15:39:41 IST" name="helper_windowHandling" finished-at="2023-11-29T15:39:50 IST" duration-ms="8935" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- browserSetup -->
-      </class> <!-- com.gitfocus.factory.BaseClass -->
+        </test-method> <!-- helper_windowHandling -->
+      </class> <!-- com.gitfocus.helpers.HandlingMultipleTab -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
