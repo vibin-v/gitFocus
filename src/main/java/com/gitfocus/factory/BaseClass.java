@@ -7,8 +7,9 @@ import org.testng.annotations.Test;
 
 public class BaseClass 
 {
+	//static WebDriver driver;
 	@Test
-	public void browserSetup()
+	public static void main(String[] args)
 	{
 		WebDriver driver;
 		ChromeOptions options = new ChromeOptions();
