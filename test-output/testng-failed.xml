@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.gitfocus.helpers.HandlingDropdownSelect">
+      <class name="com.gitfocus.helpers.HandlingBootstrapDropdown">
         <methods>
-          <include name="helper_dropdown"/>
+          <include name="helper_bootstrapDropdown"/>
         </methods>
-      </class> <!-- com.gitfocus.helpers.HandlingDropdownSelect -->
+      </class> <!-- com.gitfocus.helpers.HandlingBootstrapDropdown -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
