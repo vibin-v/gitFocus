@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.gitfocus.helpers.HandlingBootstrapDropdown">
+      <class name="com.gitfocus.helpers.HandlingAutosuggestion">
         <methods>
-          <include name="helper_bootstrapDropdown"/>
+          <include name="helper_autoSuggAmazon"/>
         </methods>
-      </class> <!-- com.gitfocus.helpers.HandlingBootstrapDropdown -->
+      </class> <!-- com.gitfocus.helpers.HandlingAutosuggestion -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
