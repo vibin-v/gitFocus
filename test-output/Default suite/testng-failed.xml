@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.gitfocus.helpers.HandlingAutosuggestion">
+      <class name="com.gitfocus.helpers.HandlingIframes">
         <methods>
-          <include name="helper_autoSuggAmazon"/>
+          <include name="helper_JSAlerts"/>
         </methods>
-      </class> <!-- com.gitfocus.helpers.HandlingAutosuggestion -->
+      </class> <!-- com.gitfocus.helpers.HandlingIframes -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
