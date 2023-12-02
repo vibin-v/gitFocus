@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.gitfocus.helpers.HandlingIframes">
+      <class name="com.gitfocus.helpers.HandlingDownloads">
         <methods>
-          <include name="helper_JSAlerts"/>
+          <include name="helper_Downloads"/>
         </methods>
-      </class> <!-- com.gitfocus.helpers.HandlingIframes -->
+      </class> <!-- com.gitfocus.helpers.HandlingDownloads -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
